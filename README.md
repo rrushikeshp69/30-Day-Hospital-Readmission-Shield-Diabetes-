@@ -64,7 +64,7 @@ The model was trained on the **UCI Diabetes 130-US Hospitals Dataset** (~70k cle
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/rrushikeshp69/readmission_shield.git](https://github.com/YOUR_USERNAME/readmission_shield.git)
+git clone [https://github.com/rrushikeshp89/readmission_shield.git](https://github.com/YOUR_USERNAME/readmission_shield.git)
 cd readmission_shield
 ```
 ### 2. Install the Dependencies
